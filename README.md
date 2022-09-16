@@ -9,7 +9,7 @@ This guidelines are based on [Anaconda](https://www.anaconda.com/distribution/) 
 The library has been tested on Linux and Windows.
 
 ### Install requirements for reproducing the experiments
-1. Download and extract the zip or clone [iESPnet]([https://github.com/vpeterson/otda-mibci.git](https://github.com/Brain-Modulation-Lab/Paper_iESPnet.git)
+1. Download and extract the zip or clone [iESPnet](https://github.com/Brain-Modulation-Lab/Paper_iESPnet.git)
 2. Go to the download directory
 3. Create conda environment
 ```

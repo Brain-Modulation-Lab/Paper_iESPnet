@@ -1,6 +1,6 @@
 # Deep net detection and onset prediction of electrographic seizure patterns in responsive neurostimulation (iESPnet)
 <p align="center">
-<img src="Images/OTDA_workflow.png" width="600">
+<img src="Figures/iespnet.png" width="600">
 </p>
 You will find here all the codes and instructions needed to reproduce the experiments performed in "Deep net detection and onset prediction of electrographic seizure patterns in responsive neurostimulation", by Victoria Peterson, Vasileios Kokkinos, Enzo Ferrante, Ashley Walton, Amir Hadanny, Varun Saravanan, Nathaniel Sisterson, Naoir Zaher, Alexandra Urban and R. Mark Richardson.
 

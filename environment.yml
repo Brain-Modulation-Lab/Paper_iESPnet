@@ -1,0 +1,20 @@
+name: iESPnet
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python==3.8
+- pip
+- numpy
+- scipy
+- matplotlib
+- pandas>=0.18
+- statsmodels
+- jupyter
+- spyder
+- mne
+- spyder
+- pip:
+  - scikit-optimize
+  - librosa
+  - scikit-learn==0.22
